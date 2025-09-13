@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+mediapipe
+pandas
+numpy
+Pillow
+plotly
+streamlit.components.v1
